@@ -4,7 +4,7 @@ Este proyecto implementa un sistema orientado a objetos para gestionar un **serv
 
 - Registrar noticias provenientes de diferentes agencias.
 - Clasificarlas por categorías (deportes, sociales, policiales, etc.).
-- Almacenar distintos tipos de contenido (texto, imágenes, videos).
+- Almacenar distintos tipos de contenido (texto, imágenes, videos).PROXIMAMENTE
 - Realizar búsquedas avanzadas por título, categoría, palabras clave o combinaciones de ellas.
 - Gestionar suscripciones de usuarios en base a sus preferencias.
 - Notificar automáticamente a los usuarios cuando se publica una noticia que cumple con sus criterios.
